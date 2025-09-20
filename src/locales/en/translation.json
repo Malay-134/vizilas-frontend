@@ -1,0 +1,67 @@
+{
+  "restaurant": "Vizilas Restobaras",
+  "home": "Home",
+  "about": "About",
+  "menu": "Menu",
+  "contact": "Contact",
+  "pages": "Pages",
+  "booking": "Booking",
+  "testimonial": "Testimonial",
+  "book_table": "Book A Table",
+
+  "welcome_title": "Welcome to Vizilas Restobaras",
+  "welcome_message": "Experience the finest dining with a blend of tradition and taste.",
+
+  "footer_rights": "All Rights Reserved © 2025",
+
+  "hero": {
+    "title": "Enjoy Our Delicious Meal",
+    "description": "Welcome to Vizilas Restobaras, where every meal is crafted with passion and served with care. From traditional recipes to modern delights, our menu is designed to satisfy every craving. Enjoy a cozy atmosphere, friendly service, and unforgettable dining experiences that bring people together.",
+    "button": "Book A Table"
+  },
+  "aboutus": {
+    "title": "About Us",
+    "welcome": "Welcome to {{restaurant}}",
+    "desc1": "Where flavor meets tradition. We take pride in serving delicious, freshly prepared dishes made from the finest ingredients. Our menu brings together a mix of authentic cuisine recipes and modern favorites, crafted to satisfy every taste.",
+    "desc2": "With a warm ambiance, attentive service, and a passion for good food, we aim to create an unforgettable dining experience for you and your loved ones. Whether it’s a casual meal, family gathering, or a special celebration, {{restaurant}} is the perfect place to relax and enjoy."
+  },
+
+  "rese": {
+    "title": "Reservation",
+    "subtitle": "Book A Table Online",
+    "name": "Your Name",
+    "email": "Your Email",
+    "datetime": "Date & Time",
+    "people": "No Of People",
+    "peopleOptions": {
+      "1": "People 1",
+      "2": "People 2",
+      "3": "People 3"
+    },
+    "message": "Special Request",
+    "button": "Book Now"
+  },
+
+  "testimonialpage": {
+    "title": "Testimonial",
+    "subtitle": "Our Clients Say!!!",
+    "items": [
+      {
+        "text": "Great service and delicious food! Highly recommend this place.",
+        "name": "John Doe",
+        "profession": "Food Blogger"
+      }
+    ]
+  },
+  "translation": {
+    "company": "Company",
+  "about": "About Us",
+  "contact": "Contact",
+  "reservation": "Reservation",
+  "menu": "Menu",
+  "contactInf": "Contact Info",
+  "opening": "Opening",
+  "mon-Sat": "Monday - Saturday",
+  "sun": "Sunday"
+  }
+}

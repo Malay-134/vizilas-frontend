@@ -1,0 +1,68 @@
+{
+  "restaurant": "Vizilas Restobaras",
+  "home": "Domus",
+  "about": "De nobis",
+  "menu": "Menu",
+  "contact": "Contactus",
+  "pages": "Paginae",
+  "booking": "Libri",
+  "testimonial": "Testimonium",
+  "book_table": "Mensam Reservare",
+
+  "welcome_title": "Salve ad Vizilas Restobaras",
+  "welcome_message": "Optimum cibum cum traditione et sapore percipe.",
+
+  "footer_rights": "Omnia Iura Reservata © 2025",
+
+  "hero": {
+    "title": "Frui Nostro Jucundo Cibo",
+    "description": "Salve ad Vizilas Restobaras, ubi omnis cibus cum studio paratur et cura ministratur. Ex priscis receptis ad modernas delicias, nostrum menu ad omnem cupiditatem explendam compositum est. Fruere amoeno loco, benigna ministeria et memorabilibus convivii momentis quae homines coniungunt.",
+    "button": "Mensam Reserva"
+  },
+
+  "aboutus": {
+    "title": "De Nobis",
+    "welcome": "Salve ad {{restaurant}}",
+    "desc1": "Ubi sapor traditioni occurrit. Superbi sumus quod cibos deliciosos, recens paratos ex optimis ingredientibus ministramus. Nostrum menu coniungit mixturam authenticorum ciborum et recentiorum delectamentorum, ad omnem gustum explendum compositam.",
+    "desc2": "Cum calida atmosfera, diligenti ministerio, et amore boni cibi, intendimus tibi et tuis caris memorabile convivium praebere. Sive prandium leve, conventus familiaris, sive celebratio specialis sit, {{restaurant}} est locus perfectus ad relaxandum et fruendum."
+  },
+
+  "rese": {
+    "title": "Reservatio",
+    "subtitle": "Mensam Online Reserva",
+    "name": "Nomen Tuum",
+    "email": "Inscripto Tua",
+    "datetime": "Dies & Hora",
+    "people": "Numerus Hominum",
+    "peopleOptions": {
+      "1": "Homo 1",
+      "2": "Homines 2",
+      "3": "Homines 3"
+    },
+    "message": "Petitio Specialis",
+    "button": "Reserva Nunc"
+  },
+
+  "testimonialpage": {
+    "title": "Testimonium",
+    "subtitle": "Clientes Nostri Dicunt!!!",
+    "items": [
+      {
+        "text": "Optimus servitus et cibus deliciosus! Locus iste valde commendatur.",
+        "name": "Ioannes Doe",
+        "profession": "Blogarius Cibi"
+      }
+    ]
+  },
+  "translation": {
+    "company": "Įmonė",
+  "about": "Apie mus",
+  "contact": "Kontaktai",
+  "reservation": "Rezervacija",
+  "menu": "Meniu",
+  "contactInf": "Kontaktinė informacija",
+  "opening": "Darbo",
+  "mon-Sat": "Pirmadienis - Šeštadienis",
+  "sun": "Sekmadienis"
+  }
+}
