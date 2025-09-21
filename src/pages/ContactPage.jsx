@@ -1,5 +1,5 @@
 import ContactBanner from "../Banner/ContactBanner"
-import Contact from "../components/ContactUs"
+import ContactUS from "../components/ContactUs"
 import Footer from "../components/Footer"
 import Navbar from "../components/Navbar"
 
@@ -8,7 +8,7 @@ const ContactPage = () => {
     <>
         <Navbar/>
         <ContactBanner/>
-        <Contact/>
+        <ContactUS/>
         <Footer/>
     </>
   )

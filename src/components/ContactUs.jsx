@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Contact = () => {
+const ContactUS = () => {
   const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
   const [formData, setFormData] = useState({
     name: "",
@@ -168,4 +168,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default ContactUS;
