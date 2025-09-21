@@ -1,68 +1,182 @@
 {
   "restaurant": "Vizilas Restobaras",
-  "home": "Domus",
-  "about": "De nobis",
-  "menu": "Menu",
-  "contact": "Contactus",
-  "pages": "Paginae",
-  "booking": "Libri",
-  "testimonial": "Testimonium",
-  "book_table": "Mensam Reservare",
+  "home": "Pagrindinis",
+  "about": "Apie mus",
+  "menu": "Meniu",
+  "contact": "Kontaktai",
+  "pages": "Puslapiai",
+  "booking": "Rezervacija",
+  "testimonial": "Atsiliepimai",
+  "book_table": "Rezervuoti staliuką",
 
-  "welcome_title": "Salve ad Vizilas Restobaras",
-  "welcome_message": "Optimum cibum cum traditione et sapore percipe.",
+  "welcome_title": "Sveiki atvykę į Vizilas Restobaras",
+  "welcome_message": "Mėgaukitės geriausiu maistu su tradicija ir skoniu.",
 
-  "footer_rights": "Omnia Iura Reservata © 2025",
+  "footer_rights": "Visos teisės saugomos © 2025",
 
   "hero": {
-    "title": "Frui Nostro Jucundo Cibo",
-    "description": "Salve ad Vizilas Restobaras, ubi omnis cibus cum studio paratur et cura ministratur. Ex priscis receptis ad modernas delicias, nostrum menu ad omnem cupiditatem explendam compositum est. Fruere amoeno loco, benigna ministeria et memorabilibus convivii momentis quae homines coniungunt.",
-    "button": "Mensam Reserva"
+    "title": "Mėgaukitės mūsų skaniu maistu",
+    "description": "Sveiki atvykę į Vizilas Restobaras, kur kiekvienas patiekalas paruoštas su meile ir rūpesčiu. Nuo senovinių receptų iki modernių delikatesų – mūsų meniu sukurtas patenkinti kiekvieno skonį. Mėgaukitės malonia aplinka, draugišku aptarnavimu ir nepamirštamais valgymo momentais, jungiančiais žmones.",
+    "button": "Rezervuoti staliuką"
   },
 
   "aboutus": {
-    "title": "De Nobis",
-    "welcome": "Salve ad {{restaurant}}",
-    "desc1": "Ubi sapor traditioni occurrit. Superbi sumus quod cibos deliciosos, recens paratos ex optimis ingredientibus ministramus. Nostrum menu coniungit mixturam authenticorum ciborum et recentiorum delectamentorum, ad omnem gustum explendum compositam.",
-    "desc2": "Cum calida atmosfera, diligenti ministerio, et amore boni cibi, intendimus tibi et tuis caris memorabile convivium praebere. Sive prandium leve, conventus familiaris, sive celebratio specialis sit, {{restaurant}} est locus perfectus ad relaxandum et fruendum."
+    "title": "Apie mus",
+    "welcome": "Sveiki atvykę į {{restaurant}}",
+    "desc1": "Kur tradicija susitinka su skoniu. Didžiuojamės teikdami skanius patiekalus, paruoštus iš geriausių ingredientų. Mūsų meniu jungia autentiškų patiekalų ir naujų delikatesų mišinį, kad patenkintų kiekvieno skonį.",
+    "desc2": "Su šilta atmosfera, rūpestingu aptarnavimu ir meile geram maistui, siekiame suteikti jums ir jūsų artimiesiems nepamirštamą valgymo patirtį. Nesvarbu, ar tai lengvas pietūs, šeimos susitikimas ar ypatinga šventė – {{restaurant}} yra puiki vieta atsipalaiduoti ir mėgautis."
   },
 
   "rese": {
-    "title": "Reservatio",
-    "subtitle": "Mensam Online Reserva",
-    "name": "Nomen Tuum",
-    "email": "Inscripto Tua",
-    "datetime": "Dies & Hora",
-    "people": "Numerus Hominum",
+    "title": "Rezervacija",
+    "subtitle": "Rezervuokite staliuką internetu",
+    "name": "Jūsų vardas",
+    "email": "El. paštas",
+    "datetime": "Data ir laikas",
+    "people": "Žmonių skaičius",
     "peopleOptions": {
-      "1": "Homo 1",
-      "2": "Homines 2",
-      "3": "Homines 3"
+      "1": "1 žmogus",
+      "2": "2 žmonės",
+      "3": "3 žmonės"
     },
-    "message": "Petitio Specialis",
-    "button": "Reserva Nunc"
+    "message": "Specialus prašymas",
+    "button": "Rezervuoti dabar"
   },
 
   "testimonialpage": {
-    "title": "Testimonium",
-    "subtitle": "Clientes Nostri Dicunt!!!",
+    "title": "Atsiliepimai",
+    "subtitle": "Mūsų klientai sako!!!",
     "items": [
       {
-        "text": "Optimus servitus et cibus deliciosus! Locus iste valde commendatur.",
-        "name": "Ioannes Doe",
-        "profession": "Blogarius Cibi"
+        "text": "Puikus aptarnavimas ir skanus maistas! Šią vietą labai rekomenduoju.",
+        "name": "Jonas Doe",
+        "profession": "Maisto tinklaraštininkas"
       }
     ]
   },
+
   "translation": {
     "company": "Įmonė",
-  "about": "Apie mus",
-  "contact": "Kontaktai",
-  "reservation": "Rezervacija",
-  "menu": "Meniu",
-  "contactInf": "Kontaktinė informacija",
-  "opening": "Darbo",
-  "mon-Sat": "Pirmadienis - Šeštadienis",
-  "sun": "Sekmadienis"
+    "about": "Apie mus",
+    "contact": "Kontaktai",
+    "reservation": "Rezervacija",
+    "menu": "Meniu",
+    "contactInf": "Kontaktinė informacija",
+    "opening": "Darbo laikas",
+    "mon-Sat": "Pirmadienis - Šeštadienis",
+    "sun": "Sekmadienis"
+  },
+
+  "foodmenu": {
+    "title": "Maisto meniu",
+    "subtitle": "Populiariausi patiekalai",
+    "tabs": [
+      {
+        "id": "tab-1",
+        "title": "Užkandžiai",
+        "icon": "fa-hamburger",
+        "subtitle": "Populiarūs",
+        "items": [
+          {
+            "img": "/img/snacks-1.png",
+            "name": "Jalapeño spurgos",
+            "price": "€4.00"
+          },
+          {
+            "img": "/img/snacks-2.png",
+            "name": "Spurgos juodoje tešloje",
+            "price": "€4.50"
+          },
+          {
+            "img": "/img/snacks-3.png",
+            "name": "Vištienos gabalėliai",
+            "price": "€4.80"
+          },
+          {
+            "img": "/img/snacks-4.png",
+            "name": "Svogūnų žiedai",
+            "price": "€4.20"
+          },
+          {
+            "img": "/img/snacks-5.png",
+            "name": "Sūrio lazdelės",
+            "price": "€4.50"
+          },
+          {
+            "img": "/img/snacks-6.png",
+            "name": "Traškučiai",
+            "price": "€3.60"
+          },
+          {
+            "img": "/img/snacks-7.png",
+            "name": "Keptos duonos gabalėliai",
+            "price": "€3.80"
+          },
+          {
+            "img": "/img/snacks-8.png",
+            "name": "Kepta duona su sūriu",
+            "price": "€4.20"
+          },
+          {
+            "img": "/img/snacks-9.png",
+            "name": "Kalmarų žiedai",
+            "price": "€5.20"
+          },
+          {
+            "img": "/img/snacks-10.png",
+            "name": "Vištienos filė kąsneliai",
+            "price": "€5.00"
+          },
+          {
+            "img": "/img/snacks-11.png",
+            "name": "Saldžiųjų bulvių užkandis",
+            "price": "€4.80"
+          },
+          {
+            "img": "/img/snacks-12.jpg",
+            "name": "Vištienos sparneliai",
+            "price": "€5.90"
+          },
+          {
+            "img": "/img/snacks-13.jpg",
+            "name": "Alyvuogių užkandis",
+            "price": "€3.50"
+          }
+        ]
+      },
+      {
+        "id": "tab-2",
+        "title": "Padažas",
+        "icon": "fa-bottle-droplet",
+        "subtitle": "Specialus",
+        "items": [
+          {
+            "img": "/img/Sauces/Garlic Sauce.jpg",
+            "name": "Česnakas",
+            "price": "€1.00"
+          },
+          {
+            "img": "/img/Sauces/Spicy Sauce.jpg",
+            "name": "Aštrus",
+            "price": "€1.00"
+          },
+          {
+            "img": "/img/Sauces/Tomato Sauce.png",
+            "name": "Pomidorų padažas",
+            "price": "€0.80"
+          },
+          {
+            "img": "/img/Sauces/Hot Sauce.png",
+            "name": "Aštrus padažas",
+            "price": "€1.20"
+          },
+          {
+            "img": "/img/Sauces/Sour Cream Sauce.png",
+            "name": "Grietinėlės padažas",
+            "price": "€1.00"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -5,14 +5,13 @@ import booking from "/img/about-2.jpg";
 const Reservation = () => {
   const { t } = useTranslation();
   const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
-  console.log("VITE_API_URL  :" + import.meta.env.VITE_API_URL)
-  console.log(API_URL)
+  const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
     name: "",
     email: "",
     datetime: "",
     people: "1",
-    message: ""
+    message: "",
   });
 
   const handleChange = (e) => {
@@ -24,7 +23,7 @@ const Reservation = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-
+    setLoading(true);
     try {
       const response = await fetch(`${API_URL}/reservation`, {
         method: "POST",
@@ -39,7 +38,7 @@ const Reservation = () => {
           email: "",
           datetime: "",
           people: "1",
-          message: ""
+          message: "",
         });
       } else {
         alert("Error saving reservation");
@@ -47,13 +46,18 @@ const Reservation = () => {
     } catch (error) {
       console.error(error);
       alert("Server error");
+    } finally {
+      setLoading(false);
     }
   };
 
   return (
-    <div id="booking" className="container-xxl py-5 px-0 wow fadeInUp" data-wow-delay="0.1s">
+    <div
+      id="booking"
+      className="container-xxl py-5 px-0 wow fadeInUp"
+      data-wow-delay="0.1s"
+    >
       <div className="row g-0">
-
         <div className="col-md-6">
           <img style={{ width: "100%" }} src={booking} alt="reservation" />
         </div>
@@ -141,8 +145,12 @@ const Reservation = () => {
                 </div>
 
                 <div className="col-12">
-                  <button className="btn btn-primary w-100 py-3" type="submit">
-                    {t("rese.button")}
+                  <button
+                    className="btn btn-primary w-100 py-3"
+                    type="submit"
+                    disabled={loading}
+                  >
+                    {loading ? "Saving..." : t("rese.button")}
                   </button>
                 </div>
               </div>

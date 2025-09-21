@@ -24,7 +24,7 @@ const Testimonial = () => {
   return (
     <div id="testimonial" className="container-xxl py-5">
       <div className="container">
-        <div className="text-center">
+        <div className="text-center mb-4">
           <h5 className="section-title ff-secondary text-primary fw-normal">
             {t("testimonialpage.title")}
           </h5>
@@ -33,19 +33,20 @@ const Testimonial = () => {
 
         <Slider {...settings}>
           {testimonials.map((item, index) => (
-            <div key={index} className="p-3">
-              <div className="testimonial-item bg-transparent border rounded p-4 h-100">
+            <div key={index} className="px-2">
+              <div className="testimonial-item bg-transparent border rounded p-4 h-100 d-flex flex-column justify-content-between">
                 <i className="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                <p>{item.text}</p>
+                <p className="flex-grow-1">{item.text}</p>
                 <div className="d-flex align-items-center mt-3">
                   <img
                     src={`img/testimonial-${index + 1}.jpg`}
-                    alt={item.name} 
+                    alt={item.name}
                     className="rounded-circle"
                     style={{
                       width: "50px",
                       height: "50px",
                       objectFit: "cover",
+                      flexShrink: 0,
                     }}
                   />
                   <div className="ps-3">

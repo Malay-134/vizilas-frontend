@@ -97,7 +97,7 @@ const Navbar = () => {
                   English
                 </button>
                 <button className="dropdown-item" onClick={() => changeLanguage("la")}>
-                  Latin
+                  Lithonia
                 </button>
               </div>
             </div>
