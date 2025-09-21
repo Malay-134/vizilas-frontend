@@ -1,5 +1,5 @@
 import ContactBanner from "../Banner/ContactBanner"
-import Contact from "../components/contact"
+import Contact from "../components/ContactUs"
 import Footer from "../components/Footer"
 import Navbar from "../components/Navbar"
 
