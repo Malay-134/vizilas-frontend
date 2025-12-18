@@ -67,6 +67,7 @@
   "foodmenu": {
     "title": "Food Menu",
     "subtitle": "Most Popular Items",
+    "view": "View all",
     "tabs": [
       {
         "id": "tab-1",
@@ -172,6 +173,124 @@
             "name": "Sour Cream Sauce",
             "price": "€1.00"
           }
+        ]
+      }
+    ]
+  },
+  "foodItems": {
+    "title": "Bar Menu",
+    "subtitle": "Enjoy Our Drinks Selection",
+    "tabs": [
+      {
+        "id": "cocktails",
+        "title": "Cocktails",
+        "subtitle": "Refreshing",
+        "icon": "fa-cocktail",
+        "items": [
+          { "name": "Mojito", "price": "$8.00", "img": "/img/cocktail.jpg" },
+          { "name": "Margarita", "price": "$9.00", "img": "/img/cocktail.jpg" },
+          { "name": "Martini", "price": "$10.00", "img": "/img/cocktail.jpg" },
+          {
+            "name": "Old Fashioned",
+            "price": "$10.00",
+            "img": "/img/cocktail.jpg"
+          }
+        ]
+      },
+      {
+        "id": "beers",
+        "title": "Beers",
+        "subtitle": "Chilled",
+        "icon": "fa-beer",
+        "items": [
+          {
+            "name": "Švyturys Ekstra",
+            "price": "$4.50",
+            "img": "/img/beer.jpg"
+          },
+          {
+            "name": "Švyturys Baltas",
+            "price": "$4.75",
+            "img": "/img/beer.jpg"
+          },
+          {
+            "name": "Švyturys Baltijos",
+            "price": "$5.00",
+            "img": "/img/beer.jpg"
+          },
+          {
+            "name": "Švyturys Gintarinis",
+            "price": "$4.25",
+            "img": "/img/beer.jpg"
+          },
+          {
+            "name": "Lager",
+            "price": "$6.00",
+            "img": "/img/beer.jpg"
+          },
+          { "name": "IPA", "price": "$7.00", "img": "/img/beer.jpg" },
+          { "name": "Stout", "price": "$7.50", "img": "/img/beer.jpg" },
+          { "name": "Pilsner", "price": "$6.50", "img": "/img/beer.jpg" }
+        ]
+      },
+      {
+        "id": "wine",
+        "title": "Wines",
+        "subtitle": "Premium",
+        "icon": "fa-wine-glass",
+        "items": [
+          { "name": "Vodka", "price": "$8.00", "img": "/img/wine.jpg" },
+          { "name": "Whiskey", "price": "$9.00", "img": "/img/wine.jpg" },
+          { "name": "Rum", "price": "$8.50", "img": "/img/wine.jpg" },
+          { "name": "Gin", "price": "$8.00", "img": "/img/wine.jpg" },
+          { "name": "Pinot Noir", "price": "$9.00", "img": "/img/wine.jpg" },
+          { "name": "Merlot", "price": "$8.50", "img": "/img/wine.jpg" },
+          { "name": "Cabernet Sauvignon", "price": "$9.50", "img": "/img/wine.jpg" },
+          { "name": "Malbec", "price": "$8.75", "img": "/img/wine.jpg" },
+          { "name": "Syrah/Shiraz", "price": "$9.00", "img": "/img/wine.jpg" },
+          { "name": "Chardonnay", "price": "$8.50", "img": "/img/wine.jpg" },
+          { "name": "Sauvignon Blanc", "price": "$8.00", "img": "/img/wine.jpg" },
+          { "name": "Riesling", "price": "$8.25", "img": "/img/wine.jpg" },
+          { "name": "Provence Rosé", "price": "$8.00", "img": "/img/wine.jpg" },
+          { "name": "White Zinfandel", "price": "$7.50", "img": "/img/wine.jpg" },
+          { "name": "Prosecco", "price": "$10.00", "img": "/img/wine.jpg" },
+          { "name": "Champagne", "price": "$15.00", "img": "/img/wine.jpg" }
+        ]
+      },
+      {
+        "id": "non-alcoholic",
+        "title": "Non-Alcoholic",
+        "subtitle": "Fresh",
+        "icon": "fa-glass-whiskey",
+        "items": [
+          {
+            "name": "Coca-Cola",
+            "price": "$3.00",
+            "img": "/img/softdrink.jpg"
+          },
+          { "name": "Sprite", "price": "$3.00", "img": "/img/juice.jpg" },
+          { "name": "Ginger Beer", "price": "$3.25", "img": "/img/juice.jpg" },
+          { "name": "Orange Juice", "price": "$3.50", "img": "/img/juice.jpg" },
+          { "name": "Pineapple Juice", "price": "$3.50", "img": "/img/juice.jpg" },
+          { "name": "Cranberry Juice", "price": "$3.25", "img": "/img/juice.jpg" },
+          { "name": "Apple Juice", "price": "$3.00", "img": "/img/juice.jpg" },
+          { "name": "Lemonade", "price": "$3.00", "img": "/img/juice.jpg" }
+        ]
+      },
+      {
+        "id": "shots",
+        "title": "Shots",
+        "subtitle": "Spirits &",
+        "icon": "fa-wine-bottle",
+        "items": [
+          {
+            "name": "Stumbras Vodka",
+            "price": "$5.00",
+            "img": "/img/softdrink.jpg"
+          },
+          { "name": "Premium Vodka", "price": "$6.50", "img": "/img/juice.jpg" },
+          { "name": "Whiskey", "price": "$9.00", "img": "/img/juice.jpg" },
+          { "name": "Local Gin", "price": "$8.50", "img": "/img/juice.jpg" }
         ]
       }
     ]

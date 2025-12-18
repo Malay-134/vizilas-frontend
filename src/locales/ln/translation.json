@@ -70,6 +70,7 @@
   "foodmenu": {
     "title": "Maisto meniu",
     "subtitle": "Populiariausi patiekalai",
+    "view": "Žiūrėti viską",
     "tabs": [
       {
         "id": "tab-1",
