@@ -190,13 +190,13 @@
         "subtitle": "Gaivinantys",
         "icon": "fa-cocktail",
         "items": [
-          { "name": "Mojito", "price": "€8.00", "img": "/img/cocktail.jpg" },
-          { "name": "Margarita", "price": "€9.00", "img": "/img/cocktail.jpg" },
-          { "name": "Martini", "price": "€10.00", "img": "/img/cocktail.jpg" },
+          { "name": "Mojito", "price": "€6.00", "img": "/img/cocktails/cocktail-1.jpeg" },
+          { "name": "Margarita", "price": "€8.00", "img": "/img/cocktails/cocktail-2.jpeg" },
+          { "name": "Martini", "price": "€9.00", "img": "/img/cocktails/cocktail-3.jpeg" },
           {
             "name": "Senasis Mados Kokteilis",
             "price": "€10.00",
-            "img": "/img/cocktail.jpg"
+            "img": "/img/cocktails/cocktail-4.jpeg"
           }
         ]
       },
@@ -208,13 +208,13 @@
         "items": [
           {
             "name": "Švyturys Ekstra",
-            "price": "€4.50",
-            "img": "/img/beer.jpg"
+            "price": "€4.00",
+            "img": "/img/Beers/beer-1.jpeg"
           },
           {
             "name": "Švyturys Baltas",
-            "price": "€4.75",
-            "img": "/img/beer.jpg"
+            "price": "€4.50",
+            "img": "/img/Beers/beer-2.jpeg"
           },
           {
             "name": "Švyturys Baltijos",
@@ -242,42 +242,42 @@
         "subtitle": "Aukščiausios Kokybės",
         "icon": "fa-wine-glass",
         "items": [
-          { "name": "Degtinė", "price": "€8.00", "img": "/img/wine.jpg" },
-          { "name": "Viskis", "price": "€9.00", "img": "/img/wine.jpg" },
-          { "name": "Romas", "price": "€8.50", "img": "/img/wine.jpg" },
-          { "name": "Džinas", "price": "€8.00", "img": "/img/wine.jpg" },
-          { "name": "Pinot Noir", "price": "€9.00", "img": "/img/wine.jpg" },
-          { "name": "Merlot", "price": "€8.50", "img": "/img/wine.jpg" },
+          { "name": "Degtinė", "price": "€8.00", "img": "/img/Wines/wine-1.jpeg" },
+          { "name": "Viskis", "price": "€9.00", "img": "/img/Wines/wine-2.jpeg" },
+          { "name": "Romas", "price": "€8.50", "img": "/img/Wines/wine-3.jpeg" },
+          { "name": "Džinas", "price": "€8.00", "img": "/img/Wines/wine-4.jpeg" },
+          { "name": "Pinot Noir", "price": "€9.00", "img": "/img/Wines/wine-5.jpeg" },
+          { "name": "Merlot", "price": "€8.50", "img": "/img/Wines/wine-6.jpeg" },
           {
             "name": "Cabernet Sauvignon",
             "price": "€9.50",
-            "img": "/img/wine.jpg"
+            "img": "/img/Wines/wine-7.jpeg"
           },
-          { "name": "Malbec", "price": "€8.75", "img": "/img/wine.jpg" },
+          { "name": "Malbec", "price": "€8.75", "img": "/img/Wines/wine-8.jpeg" },
           {
             "name": "Syrah / Shiraz",
             "price": "€9.00",
-            "img": "/img/wine.jpg"
+            "img": "/img/Wines/wine-9.jpeg"
           },
-          { "name": "Chardonnay", "price": "€8.50", "img": "/img/wine.jpg" },
+          { "name": "Chardonnay", "price": "€8.50", "img": "/img/Wines/wine-10.jpeg" },
           {
             "name": "Sauvignon Blanc",
             "price": "€8.00",
-            "img": "/img/wine.jpg"
+            "img": "/img/Wines/wine-11.jpeg"
           },
-          { "name": "Riesling", "price": "€8.25", "img": "/img/wine.jpg" },
+          { "name": "Riesling", "price": "€8.25", "img": "/img/Wines/wine-12.jpeg" },
           {
             "name": "Provanso Rožinis",
             "price": "€8.00",
-            "img": "/img/wine.jpg"
+            "img": "/img/Wines/wine-13.jpeg"
           },
           {
             "name": "Baltasis Zinfandel",
             "price": "€7.50",
-            "img": "/img/wine.jpg"
+            "img": "/img/Wines/wine-14.jpeg"
           },
-          { "name": "Prosecco", "price": "€10.00", "img": "/img/wine.jpg" },
-          { "name": "Šampanas", "price": "€15.00", "img": "/img/wine.jpg" }
+          { "name": "Prosecco", "price": "€10.00", "img": "/img/Wines/wine-15.jpeg" },
+          { "name": "Šampanas", "price": "€15.00", "img": "/img/Wines/wine-16.jpeg" }
         ]
       },
       {
@@ -288,39 +288,39 @@
         "items": [
           {
             "name": "Coca-Cola",
-            "price": "€3.00",
-            "img": "/img/softdrink.jpg"
+            "price": "€2.00",
+            "img": "/img/Non-alcoholic/item-1.jpeg"
           },
-          { "name": "Sprite", "price": "€3.00", "img": "/img/juice.jpg" },
+          { "name": "Sprite", "price": "€2.00", "img": "/img/Non-alcoholic/item-2.jpeg" },
           {
             "name": "Imbierinis Alus",
-            "price": "€3.25",
-            "img": "/img/juice.jpg"
+            "price": "€3.00",
+            "img": "/img/Non-alcoholic/item-3.jpeg"
           },
           {
             "name": "Apelsinų Sultys",
-            "price": "€3.50",
-            "img": "/img/juice.jpg"
+            "price": "€3.00",
+            "img": "/img/Non-alcoholic/item-4.jpeg"
           },
           {
             "name": "Ananasų Sultys",
             "price": "€3.50",
-            "img": "/img/juice.jpg"
+            "img": "/img/Non-alcoholic/item-5.jpeg"
           },
           {
             "name": "Spanguolių Sultys",
             "price": "€3.25",
-            "img": "/img/juice.jpg"
+            "img": "/img/Non-alcoholic/item-6.jpeg"
           },
           {
             "name": "Obuolių Sultys",
             "price": "€3.00",
-            "img": "/img/juice.jpg"
+            "img": "/img/Non-alcoholic/item-7.jpeg"
           },
           {
             "name": "Limonadas",
             "price": "€3.00",
-            "img": "/img/juice.jpg"
+            "img": "/img/Non-alcoholic/item-8.jpeg"
           }
         ]
       },
