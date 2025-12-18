@@ -73,13 +73,13 @@
     "tabs": [
       {
         "id": "tab-1",
-        "title": "Užkandžiai",
+        "title": "UŽKANDŽIAI",
         "icon": "fa-hamburger",
         "subtitle": "Populiarūs",
         "items": [
           {
             "img": "/img/snacks-1.png",
-            "name": "Jalapeño spurgos",
+            "name": "Jelapeno spurgos",
             "price": "€4.00"
           },
           {
@@ -89,7 +89,7 @@
           },
           {
             "img": "/img/snacks-3.png",
-            "name": "Vištienos gabalėliai",
+            "name": "Chicken nuggets",
             "price": "€4.80"
           },
           {
@@ -99,17 +99,17 @@
           },
           {
             "img": "/img/snacks-5.png",
-            "name": "Sūrio lazdelės",
+            "name": "Sūrio piršteliai",
             "price": "€4.50"
           },
           {
             "img": "/img/snacks-6.png",
-            "name": "Traškučiai",
+            "name": "Fri bulvytės",
             "price": "€3.60"
           },
           {
             "img": "/img/snacks-7.png",
-            "name": "Keptos duonos gabalėliai",
+            "name": "Kepta duona",
             "price": "€3.80"
           },
           {
@@ -124,17 +124,17 @@
           },
           {
             "img": "/img/snacks-10.png",
-            "name": "Vištienos filė kąsneliai",
+            "name": "Vištienos filė kepsneliai",
             "price": "€5.00"
           },
           {
             "img": "/img/snacks-11.png",
-            "name": "Saldžiųjų bulvių užkandis",
+            "name": "Batatų užkandis",
             "price": "€4.80"
           },
           {
             "img": "/img/snacks-12.jpg",
-            "name": "Vištienos sparneliai",
+            "name": "Vištienos petukai",
             "price": "€5.90"
           },
           {
@@ -152,12 +152,12 @@
         "items": [
           {
             "img": "/img/Sauces/Garlic Sauce.jpg",
-            "name": "Česnakas",
+            "name": "Česnakinis",
             "price": "€1.00"
           },
           {
             "img": "/img/Sauces/Spicy Sauce.jpg",
-            "name": "Aštrus",
+            "name": "Pikantiškas",
             "price": "€1.00"
           },
           {
@@ -172,7 +172,7 @@
           },
           {
             "img": "/img/Sauces/Sour Cream Sauce.png",
-            "name": "Grietinėlės padažas",
+            "name": "Grietinės padažas",
             "price": "€1.00"
           }
         ]

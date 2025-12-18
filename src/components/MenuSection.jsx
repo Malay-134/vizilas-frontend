@@ -165,7 +165,6 @@ const MenuSection = () => {
           <h1 className="mb-5">{menu.subtitle}</h1>
         </div>
 
-        {/* Tabs */}
         <div className="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
           <ul className="nav nav-pills d-inline-flex justify-content-center border-bottom mb-5">
             {menu.tabs.map((tab, idx) => (
