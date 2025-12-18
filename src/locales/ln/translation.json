@@ -79,7 +79,7 @@
         "subtitle": "Populiarūs",
         "items": [
           {
-            "img": "/img/snacks-1.png",
+            "img": "/img/snacks-1.jpeg",
             "name": "Jelapeno spurgos",
             "price": "€4.00"
           },
@@ -89,57 +89,57 @@
             "price": "€4.50"
           },
           {
-            "img": "/img/snacks-3.png",
+            "img": "/img/snacks-3.jpeg",
             "name": "Chicken nuggets",
             "price": "€4.80"
           },
           {
-            "img": "/img/snacks-4.png",
+            "img": "/img/snacks-4.jpeg",
             "name": "Svogūnų žiedai",
             "price": "€4.20"
           },
           {
-            "img": "/img/snacks-5.png",
+            "img": "/img/snacks-5.jpeg",
             "name": "Sūrio piršteliai",
             "price": "€4.50"
           },
           {
-            "img": "/img/snacks-6.png",
+            "img": "/img/snacks-6.jpeg",
             "name": "Fri bulvytės",
             "price": "€3.60"
           },
           {
-            "img": "/img/snacks-7.png",
+            "img": "/img/snacks-7.jpeg",
             "name": "Kepta duona",
             "price": "€3.80"
           },
           {
-            "img": "/img/snacks-8.png",
+            "img": "/img/snacks-8.jpeg",
             "name": "Kepta duona su sūriu",
             "price": "€4.20"
           },
           {
-            "img": "/img/snacks-9.png",
+            "img": "/img/snacks-9.jpeg",
             "name": "Kalmarų žiedai",
             "price": "€5.20"
           },
           {
-            "img": "/img/snacks-10.png",
+            "img": "/img/snacks-10.jpeg",
             "name": "Vištienos filė kepsneliai",
             "price": "€5.00"
           },
           {
-            "img": "/img/snacks-11.png",
+            "img": "/img/snacks-11.jpeg",
             "name": "Batatų užkandis",
             "price": "€4.80"
           },
           {
-            "img": "/img/snacks-12.jpg",
+            "img": "/img/snacks-12.jpeg",
             "name": "Vištienos petukai",
             "price": "€5.90"
           },
           {
-            "img": "/img/snacks-13.jpg",
+            "img": "/img/snacks-13.jpeg",
             "name": "Alyvuogių užkandis",
             "price": "€3.50"
           }
@@ -152,27 +152,27 @@
         "subtitle": "Specialus",
         "items": [
           {
-            "img": "/img/Sauces/Garlic Sauce.jpg",
+            "img": "/img/Sauces/sauce-1.jpeg",
             "name": "Česnakinis",
             "price": "€1.00"
           },
           {
-            "img": "/img/Sauces/Spicy Sauce.jpg",
+            "img": "/img/Sauces/sauce-2.jpeg",
             "name": "Pikantiškas",
             "price": "€1.00"
           },
           {
-            "img": "/img/Sauces/Tomato Sauce.png",
+            "img": "/img/Sauces/sauce-3.jpeg",
             "name": "Pomidorų padažas",
             "price": "€0.80"
           },
           {
-            "img": "/img/Sauces/Hot Sauce.png",
+            "img": "/img/Sauces/sauce-4.jpeg",
             "name": "Aštrus padažas",
             "price": "€1.20"
           },
           {
-            "img": "/img/Sauces/Sour Cream Sauce.png",
+            "img": "/img/Sauces/sauce-5.jpeg",
             "name": "Grietinės padažas",
             "price": "€1.00"
           }
