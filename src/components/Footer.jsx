@@ -32,9 +32,9 @@ const Footer = () => {
           <div className="col d-flex flex-column">
             <h4 style={{color:"#FEA116"}} className="footer-line ff-secondary fw-normal mb-4">{t("translation.opening")}</h4>
             <h5 className="text-light fw-normal">{t("translation.mon-Sat")}</h5>
-            <p>09AM - 09PM</p>
+            <p>11AM - 11PM</p>
             <h5 className="text-light fw-normal">{t("translation.sun")}</h5>
-            <p>10AM - 08PM</p>
+            <p>11AM - 11PM</p>
           </div>
 
         </div>
