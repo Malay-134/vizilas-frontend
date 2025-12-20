@@ -80,7 +80,7 @@ const ContactUS = () => {
             <iframe
               title="Google Map"
               className="position-relative rounded w-100 h-100"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2313.391052094639!2d21.135620876566828!3d55.68872899749784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e4d9a5c061fbe9%3A0x2a2a2a7d7741c4b0!2sTaikos%20pr.%2081%2C%20Klaip%C4%97da%2094114%2C%20Klaip%C4%97dos%20m.%20sav.!5e0!3m2!1sen!2slt!4v1693914321234!5m2!1sen!2slt"
+              src="https://www.google.com/maps/place/Vizilas+Restobaras/@55.6834269,21.163559,17z/data=!3m1!4b1!4m6!3m5!1s0x46e4ddc0a3cd4309:0xb869a24bcbefcfd3!8m2!3d55.6834269!4d21.163559!16s%2Fg%2F11xvlf0ds6?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D"
               frameBorder="0"
               style={{ minHeight: "350px", border: 0 }}
               allowFullScreen=""
