@@ -187,12 +187,12 @@
         "subtitle": "Refreshing",
         "icon": "fa-cocktail",
         "items": [
-          { "name": "Mojito", "price": "$6.00", "img": "/img/cocktails/cocktail-1.jpeg" },
-          { "name": "Margarita", "price": "$8.00", "img": "/img/cocktails/cocktail-2.jpeg" },
-          { "name": "Martini", "price": "$9.00", "img": "/img/cocktails/cocktail-3.jpeg" },
+          { "name": "Mojito", "price": "€6.00", "img": "/img/cocktails/cocktail-1.jpeg" },
+          { "name": "Margarita", "price": "€8.00", "img": "/img/cocktails/cocktail-2.jpeg" },
+          { "name": "Martini", "price": "€9.00", "img": "/img/cocktails/cocktail-3.jpeg" },
           {
             "name": "Old Fashioned",
-            "price": "$10.00",
+            "price": "€10.00",
             "img": "/img/cocktails/cocktail-4.jpeg"
           }
         ]
@@ -205,32 +205,32 @@
         "items": [
           {
             "name": "Švyturys Ekstra",
-            "price": "$4.00",
+            "price": "€4.00",
             "img": "/img/Beers/beer-1.jpeg"
           },
           {
             "name": "Švyturys Baltas",
-            "price": "$4.50",
+            "price": "€4.50",
             "img": "/img/Beers/beer-2.jpeg"
           },
           {
             "name": "Švyturys Baltijos",
-            "price": "$5.00",
+            "price": "€5.00",
             "img": "/img/beer.jpg"
           },
           {
             "name": "Švyturys Gintarinis",
-            "price": "$4.25",
+            "price": "€4.25",
             "img": "/img/beer.jpg"
           },
           {
             "name": "Lager",
-            "price": "$6.00",
+            "price": "€6.00",
             "img": "/img/beer.jpg"
           },
-          { "name": "IPA", "price": "$7.00", "img": "/img/beer.jpg" },
-          { "name": "Stout", "price": "$7.50", "img": "/img/beer.jpg" },
-          { "name": "Pilsner", "price": "$6.50", "img": "/img/beer.jpg" }
+          { "name": "IPA", "price": "€7.00", "img": "/img/beer.jpg" },
+          { "name": "Stout", "price": "€7.50", "img": "/img/beer.jpg" },
+          { "name": "Pilsner", "price": "€6.50", "img": "/img/beer.jpg" }
         ]
       },
       {
@@ -239,22 +239,22 @@
         "subtitle": "Premium",
         "icon": "fa-wine-glass",
         "items": [
-          { "name": "Vodka", "price": "$8.00", "img": "/img/Wines/wine-1.jpeg" },
-          { "name": "Whiskey", "price": "$9.00", "img": "/img/Wines/wine-2.jpeg" },
-          { "name": "Rum", "price": "$8.50", "img": "/img/Wines/wine-3.jpeg" },
-          { "name": "Gin", "price": "$8.00", "img": "/img/Wines/wine-4.jpeg" },
-          { "name": "Pinot Noir", "price": "$9.00", "img": "/img/Wines/wine-5.jpeg" },
-          { "name": "Merlot", "price": "$8.50", "img": "/img/Wines/wine-6.jpeg" },
-          { "name": "Cabernet Sauvignon", "price": "$9.50", "img": "/img/Wines/wine-7.jpeg" },
-          { "name": "Malbec", "price": "$8.75", "img": "/img/Wines/wine-8.jpeg" },
-          { "name": "Syrah/Shiraz", "price": "$9.00", "img": "/img/Wines/wine-9.jpeg" },
-          { "name": "Chardonnay", "price": "$8.50", "img": "/img/Wines/wine-10.jpeg" },
-          { "name": "Sauvignon Blanc", "price": "$8.00", "img": "/img/Wines/wine-11.jpeg" },
-          { "name": "Riesling", "price": "$8.25", "img": "/img/Wines/wine-12.jpeg" },
-          { "name": "Provence Rosé", "price": "$8.00", "img": "/img/Wines/wine-13.jpeg" },
-          { "name": "White Zinfandel", "price": "$7.50", "img": "/img/Wines/wine-14.jpeg" },
-          { "name": "Prosecco", "price": "$10.00", "img": "/img/Wines/wine-15.jpeg" },
-          { "name": "Champagne", "price": "$15.00", "img": "/img/Wines/wine-16.jpeg" }
+          { "name": "Vodka", "price": "€8.00", "img": "/img/Wines/wine-1.jpeg" },
+          { "name": "Whiskey", "price": "€9.00", "img": "/img/Wines/wine-2.jpeg" },
+          { "name": "Rum", "price": "€8.50", "img": "/img/Wines/wine-3.jpeg" },
+          { "name": "Gin", "price": "€8.00", "img": "/img/Wines/wine-4.jpeg" },
+          { "name": "Pinot Noir", "price": "€9.00", "img": "/img/Wines/wine-5.jpeg" },
+          { "name": "Merlot", "price": "€8.50", "img": "/img/Wines/wine-6.jpeg" },
+          { "name": "Cabernet Sauvignon", "price": "€9.50", "img": "/img/Wines/wine-7.jpeg" },
+          { "name": "Malbec", "price": "€8.75", "img": "/img/Wines/wine-8.jpeg" },
+          { "name": "Syrah/Shiraz", "price": "€9.00", "img": "/img/Wines/wine-9.jpeg" },
+          { "name": "Chardonnay", "price": "€8.50", "img": "/img/Wines/wine-10.jpeg" },
+          { "name": "Sauvignon Blanc", "price": "€8.00", "img": "/img/Wines/wine-11.jpeg" },
+          { "name": "Riesling", "price": "€8.25", "img": "/img/Wines/wine-12.jpeg" },
+          { "name": "Provence Rosé", "price": "€8.00", "img": "/img/Wines/wine-13.jpeg" },
+          { "name": "White Zinfandel", "price": "€7.50", "img": "/img/Wines/wine-14.jpeg" },
+          { "name": "Prosecco", "price": "€10.00", "img": "/img/Wines/wine-15.jpeg" },
+          { "name": "Champagne", "price": "€15.00", "img": "/img/Wines/wine-16.jpeg" }
         ]
       },
       {
@@ -265,16 +265,16 @@
         "items": [
           {
             "name": "Coca-Cola",
-            "price": "$2.00",
+            "price": "€2.00",
             "img": "/img/Non-alcoholic/item-1.jpeg"
           },
-          { "name": "Sprite", "price": "$2.00", "img": "/img/Non-alcoholic/item-2.jpeg" },
-          { "name": "Ginger Beer", "price": "$3.00", "img": "/img/Non-alcoholic/item-3.jpeg" },
-          { "name": "Orange Juice", "price": "$3.00", "img": "/img/Non-alcoholic/item-4.jpeg" },
-          { "name": "Pineapple Juice", "price": "$3.50", "img": "/img/Non-alcoholic/item-5.jpeg" },
-          { "name": "Cranberry Juice", "price": "$3.25", "img": "/img/Non-alcoholic/item-6.jpeg" },
-          { "name": "Apple Juice", "price": "$3.00", "img": "/img/Non-alcoholic/item-7.jpeg" },
-          { "name": "Lemonade", "price": "$3.00", "img": "/img/Non-alcoholic/item-8.jpeg" }
+          { "name": "Sprite", "price": "€2.00", "img": "/img/Non-alcoholic/item-2.jpeg" },
+          { "name": "Ginger Beer", "price": "€3.00", "img": "/img/Non-alcoholic/item-3.jpeg" },
+          { "name": "Orange Juice", "price": "€3.00", "img": "/img/Non-alcoholic/item-4.jpeg" },
+          { "name": "Pineapple Juice", "price": "€3.50", "img": "/img/Non-alcoholic/item-5.jpeg" },
+          { "name": "Cranberry Juice", "price": "€3.25", "img": "/img/Non-alcoholic/item-6.jpeg" },
+          { "name": "Apple Juice", "price": "€3.00", "img": "/img/Non-alcoholic/item-7.jpeg" },
+          { "name": "Lemonade", "price": "€3.00", "img": "/img/Non-alcoholic/item-8.jpeg" }
         ]
       },
       {
@@ -285,12 +285,12 @@
         "items": [
           {
             "name": "Stumbras Vodka",
-            "price": "$5.00",
+            "price": "€5.00",
             "img": "/img/softdrink.jpg"
           },
-          { "name": "Premium Vodka", "price": "$6.50", "img": "/img/juice.jpg" },
-          { "name": "Whiskey", "price": "$9.00", "img": "/img/juice.jpg" },
-          { "name": "Local Gin", "price": "$8.50", "img": "/img/juice.jpg" }
+          { "name": "Premium Vodka", "price": "€6.50", "img": "/img/juice.jpg" },
+          { "name": "Whiskey", "price": "€9.00", "img": "/img/juice.jpg" },
+          { "name": "Local Gin", "price": "€8.50", "img": "/img/juice.jpg" }
         ]
       }
     ]
