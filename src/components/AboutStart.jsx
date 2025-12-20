@@ -22,7 +22,7 @@ const AboutSection = () => {
                 <img
                   className="img-fluid rounded w-75 wow zoomIn"
                   data-wow-delay="0.3s"
-                  src="/img/about-2.jpg"
+                  src="/img/Non-alcoholic/item-6.jpeg"
                   style={{ marginTop: "25%" }}
                   alt="about-2"
                 />
