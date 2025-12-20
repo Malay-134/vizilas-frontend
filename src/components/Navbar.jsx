@@ -37,7 +37,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
         <Link to="/" className="navbar-brand p-0 d-flex align-items-center">
           <img
-            src="/nav_logo.png"
+            src="/nav_logo1.png"
             alt="Vizlas Restobaras Logo"
             className="navbar-logo"
           />

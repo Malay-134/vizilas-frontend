@@ -60,7 +60,7 @@ const ContactUS = () => {
                 </h5>
                 <p>
                   <i className="fa fa-envelope-open text-primary me-2"></i>
-                  info@example.com
+                  administracija@vizilasrestobaras.com
                 </p>
               </div>
               <div className="col-md-4">

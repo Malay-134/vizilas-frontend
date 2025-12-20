@@ -31,10 +31,10 @@ const MenuSection = () => {
                   data-bs-toggle="pill"
                   href={`#${tab.id}`}
                 >
-                  <i className={`fa ${tab.icon} fa-2x text-primary`}></i>
+                  <i className={`fa ${tab.icon} fa-2x text-secondary`}></i>
                   <div className="ps-3">
                     <small className="text-body">{tab.subtitle}</small>
-                    <h6 className="mt-n1 mb-0">{tab.title}</h6>
+                    <h6 className="mt-n1 mb-0 text-body">{tab.title}</h6>
                   </div>
                 </a>
               </li>
@@ -71,7 +71,7 @@ const MenuSection = () => {
                         <div className="w-100 d-flex flex-column text-start ps-4">
                           <h5 className="d-flex justify-content-between border-bottom pb-2">
                             <span>{item.name}</span>
-                            <span className="text-primary">{item.price}</span>
+                            <span className="text-dark">{item.price}</span>
                           </h5>
                         </div>
                       </div>

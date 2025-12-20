@@ -54,7 +54,7 @@ const Reservation = () => {
   return (
     <div
       id="booking"
-      className="container-xxl py-5 px-0 wow fadeInUp"
+      className="container-xxl mb-5 px-0 wow fadeInUp"
       data-wow-delay="0.1s"
     >
       <div className="row g-0">
