@@ -80,7 +80,7 @@ const ContactUS = () => {
             <iframe
               title="Google Map"
               className="position-relative rounded w-100 h-100"
-              src="https://www.google.com/maps/place/Vizilas+Restobaras/@55.6834269,21.163559,17z/data=!3m1!4b1!4m6!3m5!1s0x46e4ddc0a3cd4309:0xb869a24bcbefcfd3!8m2!3d55.6834269!4d21.163559!16s%2Fg%2F11xvlf0ds6?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D"
+              src="https://maps.app.goo.gl/DAJDjxLWWV9dTier7"
               frameBorder="0"
               style={{ minHeight: "350px", border: 0 }}
               allowFullScreen=""
