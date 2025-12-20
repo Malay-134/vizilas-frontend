@@ -31,7 +31,7 @@ const AboutSection = () => {
                 <img
                   className="img-fluid rounded w-75 wow zoomIn"
                   data-wow-delay="0.5s"
-                  src="/img/about-3.jpg"
+                  src="/img/Sauces/sauce-1.jpeg"
                   alt="about-3"
                 />
               </div>
