@@ -155,7 +155,7 @@
 }
 
 
-/*** Hero Header ***/
+/*** Hero Header 
 .hero-header {
     background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../img/bg-hero.jpg);
     background-position: center center;
@@ -171,7 +171,7 @@
     100% { 
         transform: rotate(360deg); 
     } 
-}
+}**/
 
 .breadcrumb-item + .breadcrumb-item::before {
     color: rgba(255, 255, 255, 0.5);
