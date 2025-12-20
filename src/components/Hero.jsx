@@ -24,7 +24,7 @@ const Hero = () => {
           <div className="col-lg-6 text-center text-lg-end overflow-hidden">
             <img
               className="img-fluid"
-              src="img/.png"
+              src="img/Wines/wine-12.jpeg"
               alt="Delicious Meal"
             />
           </div>
