@@ -23,8 +23,8 @@ const Navbar = () => {
   ];
 
   const dropdownLinks = [
-    { label: t("booking"), link: "/booking" },
-    { label: t("testimonial"), link: "/testimonial" },
+    { label: t("booking"), link: "/booking" }
+    /*{ label: t("testimonial"), link: "/testimonial" },*/
   ];
 
   const changeLanguage = (lng) => {
