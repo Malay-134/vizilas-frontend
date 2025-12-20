@@ -14,7 +14,7 @@ const AboutSection = () => {
                 <img
                   className="img-fluid rounded w-100 wow zoomIn"
                   data-wow-delay="0.1s"
-                  src="/img/about-1.jpg"
+                  src="/img/Wines/wine-5.jpeg"
                   alt="about-1"
                 />
               </div>
@@ -22,7 +22,7 @@ const AboutSection = () => {
                 <img
                   className="img-fluid rounded w-75 wow zoomIn"
                   data-wow-delay="0.3s"
-                  src="/img/about-2.jpg"
+                  src="/img/Non-alcoholic/item-6.jpeg"
                   style={{ marginTop: "25%" }}
                   alt="about-2"
                 />
@@ -31,7 +31,7 @@ const AboutSection = () => {
                 <img
                   className="img-fluid rounded w-75 wow zoomIn"
                   data-wow-delay="0.5s"
-                  src="/img/about-3.jpg"
+                  src="/img/Sauces/sauce-1.jpeg"
                   alt="about-3"
                 />
               </div>
@@ -39,7 +39,7 @@ const AboutSection = () => {
                 <img
                   className="img-fluid rounded w-100 wow zoomIn"
                   data-wow-delay="0.7s"
-                  src="/img/about-4.jpg"
+                  src="/img/snacks-3.jpeg"
                   alt="about-4"
                 />
               </div>

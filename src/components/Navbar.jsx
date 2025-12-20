@@ -23,8 +23,8 @@ const Navbar = () => {
   ];
 
   const dropdownLinks = [
-    { label: t("booking"), link: "/booking" },
-    { label: t("testimonial"), link: "/testimonial" },
+    { label: t("booking"), link: "/booking" }
+    /*{ label: t("testimonial"), link: "/testimonial" },*/
   ];
 
   const changeLanguage = (lng) => {
@@ -97,7 +97,7 @@ const Navbar = () => {
                   English
                 </button>
                 <button className="dropdown-item" onClick={() => changeLanguage("la")}>
-                  Lithonia
+                  Lithuanian
                 </button>
               </div>
             </div>
