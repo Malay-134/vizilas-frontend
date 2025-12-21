@@ -23,8 +23,8 @@
   "aboutus": {
     "title": "Apie mus",
     "welcome": "Sveiki atvykę į {{restaurant}}",
-    "desc1": "VIZILAS RESTOBARAS – tai šiuolaikiškas baro tipo restoranas, įsikūręs pietinėje Klaipėdos dalyje, Taikos pr. 81. Jis kuriamas aplink išskirtinius gėrimus, gyvą atmosferą ir stiprią, į svečius orientuotą komandą, kuri iš tiesų pažįsta savo lankytojus.",
-    "desc2": "Su šilta atmosfera, rūpestingu aptarnavimu ir meile geram maistui, siekiame suteikti jums ir jūsų artimiesiems nepamirštamą valgymo patirtį. Nesvarbu, ar tai lengvas pietūs, šeimos susitikimas ar ypatinga šventė – {{restaurant}} yra puiki vieta atsipalaiduoti ir mėgautis."
+    "desc1": "„VIZILAS RESTOBARAS“ – tai šiuolaikiškas baro stiliaus restoranas, įsikūręs pietinėje Kalifornijos dalyje, Taikos pr. 81. Jame gausu gėrimų, atmosferos ir stiprios komandos, kuri iš tikrųjų pažįsta savo svečius. Pasitelkęs tarptautinę patirtį baruose ir restoranuose, „VIZILAS RESTOBARAS“ sukūrė gėrimų meniu, kuriame nesenstantys klasikiniai kokteiliai dera su moderniais firminiais elementais, kruopščiai atrinktu alaus asortimentu ir plačiu nealkoholinių gėrimų pasirinkimu, kad kiekvienas svečias rastų sau tinkamą gėrimą. Nors maistas čia vaidina antraeilį vaidmenį, trumpas, aiškus ir gerai apgalvotas užkandžių bei baro maisto meniu puikiai dera su gėrimais, išlaikant vakaro lengvumą, socialumą ir dėmesį baro patirčiai.",
+    "desc2": "„VIZILAS RESTOBARAS“ erdvė pritaikyta įvairioms progoms: gyvybinga baro zona spontaniškiems vakarėliams ir sporto transliacijoms per televizorių, jaukesni staliukai privatesniems pokalbiams ir erdvė, kurią galima pritaikyti gimtadieniams, susibūrimams po darbo ar nedideliems renginiams. Darbo dienomis tai ideali vieta užsukti po pamokų ar darbo išgerti ir lengvai užkąsti, o savaitgaliais baras virsta gyvybinga vieta, kur susitinka muzika, kokteiliai, šurmulys ir nuolatiniai klientai. „VIZILAS RESTOBARAS“ siekia tapti ta vieta Kalifornijoje, kurią vadinate „mano baru“ – kur jie pažįsta jūsų gėrimą, atpažįsta jūsų veidą ir kiekvieną vakarą turi šiek tiek kitokį, bet visada neabejotiną „VIZILAS“ charakterį."
   },
 
   "rese": {
@@ -219,21 +219,19 @@
           {
             "name": "Švyturys Baltijos",
             "price": "€5.00",
-            "img": "/img/beer.jpg"
+            "img": "/img/Beers/beer-3.jpeg"
           },
           {
             "name": "Švyturys Gintarinis",
-            "price": "€4.25",
-            "img": "/img/beer.jpg"
+            "price": "€3.75",
+            "img": "/img/Beers/beer-4.jpeg"
           },
           {
             "name": "Lageris",
-            "price": "€6.00",
-            "img": "/img/beer.jpg"
+            "price": "€5.00",
+            "img": "/img/Beers/beer-5.jpeg"
           },
-          { "name": "IPA", "price": "€7.00", "img": "/img/beer.jpg" },
-          { "name": "Stautas", "price": "€7.50", "img": "/img/beer.jpg" },
-          { "name": "Pilzenas", "price": "€6.50", "img": "/img/beer.jpg" }
+          { "name": "IPA", "price": "€5.00", "img": "/img/Beers/beer-6.jpeg" }
         ]
       },
       {

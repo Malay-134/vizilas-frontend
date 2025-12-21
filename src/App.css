@@ -56,8 +56,23 @@
 
 .btn.btn-primary,
 .btn.btn-secondary {
-    color: #FF0000;
+    font-weight: 500;
+    background-color: #FF0000;
+    border: none;
 }
+.btn.btn-primary:hover{
+    background-color: #ff0000dc;
+}
+.btn.btn-primary:focus{
+    background-color: #ff00009f;
+}
+.btn.btn-secondary:hover{
+    background-color: #ff0000dc;
+}
+.btn.btn-secondary:focus{
+    background-color: #ff00009f;
+}
+
 
 .btn-square {
     width: 38px;

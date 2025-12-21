@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import booking from "/img/logo.jpge";
+import booking from "../../public/img/image-1.jpeg";
 
 const Reservation = () => {
   const { t } = useTranslation();
@@ -59,7 +59,7 @@ const Reservation = () => {
     >
       <div className="row g-0">
         <div className="col-md-6">
-          <img style={{ width: "100%" }} src={booking} alt="reservation" />
+          <img style={{ width: "100%", height: "100%" }} src={booking} alt="reservation" />
         </div>
 
         {/* Reservation Form */}

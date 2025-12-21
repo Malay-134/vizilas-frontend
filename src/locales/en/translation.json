@@ -22,8 +22,8 @@
   "aboutus": {
     "title": "About Us",
     "welcome": "Welcome to {{restaurant}}",
-    "desc1": "VIZILAS RESTOBARAS is a contemporary bar‑style restobar located in the southern part of Klaipėda, at Taikos pr. 81, built around drinks, atmosphere, and a strong team that truly gets to know its guests. ",
-    "desc2": "With a warm ambiance, attentive service, and a passion for good food, we aim to create an unforgettable dining experience for you and your loved ones. Whether it’s a casual meal, family gathering, or a special celebration, {{restaurant}} is the perfect place to relax and enjoy."
+    "desc1": "VIZILAS RESTOBARAS is a contemporary bar‑style restobar located in the southern part of Klaipėda, at Taikos pr. 81, built around drinks, atmosphere, and a strong team that truly gets to know its guests.Drawing on international experience from bars and restaurants, VIZILAS RESTOBARAS has created a drink menu where timeless classic cocktails meet modern signatures, alongside a carefully selected range of beers and a wide choice of non‑alcoholic options so every guest can find the right drink. While food plays a supporting role here, a short, clear, and well‑thought‑out snack and bar food menu is designed to pair perfectly with the drinks, keeping the evening light, social, and focused on the bar experience. ",
+    "desc2": "The space at VIZILAS RESTOBARAS is arranged to fit different occasions: a lively bar zone for spontaneous nights out and sports on TV, cozier tables for more private conversations, and an area that can be adapted for birthdays, after‑work gatherings, or small events. On weekdays it is the ideal place to drop by after classes or work for a drink and a light bite, while on weekends the bar turns into a vibrant hotspot where music, cocktails, buzz, and returning regulars meet.  VIZILAS RESTOBARAS aims to become the place in Klaipėda you refer to as “my bar” – where they know your drink, recognize your face, and every night has a slightly different, but always unmistakable, VIZILAS character."
   },
 
   "rese": {
@@ -216,21 +216,19 @@
           {
             "name": "Švyturys Baltijos",
             "price": "€5.00",
-            "img": "/img/beer.jpg"
+            "img": "/img/Beers/beer-3.jpeg"
           },
           {
             "name": "Švyturys Gintarinis",
-            "price": "€4.25",
-            "img": "/img/beer.jpg"
+            "price": "€3.75",
+            "img": "/img/Beers/beer-4.jpeg"
           },
           {
             "name": "Lager",
-            "price": "€6.00",
-            "img": "/img/beer.jpg"
+            "price": "€5.00",
+            "img": "/img/Beers/beer-5.jpeg"
           },
-          { "name": "IPA", "price": "€7.00", "img": "/img/beer.jpg" },
-          { "name": "Stout", "price": "€7.50", "img": "/img/beer.jpg" },
-          { "name": "Pilsner", "price": "€6.50", "img": "/img/beer.jpg" }
+          { "name": "IPA", "price": "€5.00", "img": "/img/Beers/beer-6.jpeg" }
         ]
       },
       {
