@@ -44,7 +44,7 @@ const ContactUS = () => {
       <div className="container">
         {/* Title Section */}
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
-          <h5 className="section-title ff-secondary text-center text-primary fw-normal">
+          <h5 className="section-title ff-secondary text-center fw-normal">
             Contact Us
           </h5>
           <h1 className="mb-5">Contact For Any Query</h1>
@@ -55,20 +55,20 @@ const ContactUS = () => {
           <div className="col-12">
             <div className="row gy-4">
               <div className="col-md-4">
-                <h5 className="section-title ff-secondary fw-normal text-start text-primary">
+                <h5 className="section-title ff-secondary fw-normal text-start">
                   General
                 </h5>
                 <p>
-                  <i className="fa fa-envelope-open text-primary me-2"></i>
+                  <i className="fa fa-envelope-open text-secondary me-2"></i>
                   administracija@vizilasrestobaras.com
                 </p>
-              </div>
+              </div> 
               <div className="col-md-4">
-                <h5 className="section-title ff-secondary fw-normal text-start text-primary">
+                <h5 className="section-title ff-secondary fw-normal text-start">
                   Contact
                 </h5>
                 <p>
-                  <i className="fa fa-envelope-open text-primary me-2"></i>
+                  <i className="fa fa-envelope-open text-secondary me-2"></i>
                   +37065922833
                 </p>
               </div>

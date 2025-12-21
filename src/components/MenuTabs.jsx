@@ -1,6 +1,6 @@
 const MenuTabs = ({data}) => {
   return (
-    <div className="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
+    <div className="tab-class text-center  wow fadeInUp" data-wow-delay="0.1s">
       {/* Tabs */}
       <ul className="nav nav-pills d-flex flex-nowrap overflow-auto justify-content-start justify-content-md-center border-bottom mb-4">
         {data.tabs.map((tab, idx) => (

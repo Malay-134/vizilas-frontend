@@ -90,7 +90,7 @@ const Navbar = () => {
                 🌐
                 {/* Language */}
               </span>
-              <div className="dropdown-menu m-0">
+              <div className="dropdown-menu m-0 dark-dropdown">
                 <button
                   className="dropdown-item"
                   onClick={() => changeLanguage("en")}

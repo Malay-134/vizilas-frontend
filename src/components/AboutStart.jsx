@@ -48,7 +48,7 @@ const AboutSection = () => {
 
           {/* Right Content */}
           <div className="col-lg-6">
-            <h5 className="section-title ff-secondary text-start text-primary fw-normal">
+            <h5 className="section-title ff-secondary text-start text-dark fw-normal">
               {t("aboutus.title")}
             </h5>
             <h1 className="mb-4">

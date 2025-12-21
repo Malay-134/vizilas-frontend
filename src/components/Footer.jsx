@@ -13,7 +13,7 @@ const Footer = () => {
 
           {/* Company Section */}
           <div className="col d-flex flex-column">
-            <h4 style={{color:"#FEA116"}} className="footer-line ff-secondary fw-normal mb-4">{t("translation.company")}</h4>
+            <h4 className="footer-line ff-secondary fw-normal mb-4">{t("translation.company")}</h4>
             <Link to="/about" className="btn btn-link text-light">{t("translation.about")}</Link>
             <Link to="/contact" className="btn btn-link text-light">{t("translation.contact")}</Link>
             <Link to="/booking" className="btn btn-link text-light">{t("translation.reservation")}</Link>
@@ -22,7 +22,7 @@ const Footer = () => {
 
           {/* Contact Section */}
           <div className="col d-flex flex-column">
-            <h4 style={{color:"#FEA116"}} className="footer-line ff-secondary fw-normal mb-4">{t("translation.contact")}</h4>
+            <h4 className="footer-line ff-secondary fw-normal mb-4">{t("translation.contact")}</h4>
             <p className="mb-2"><i className="fa fa-map-marker-alt me-3"></i>Taikos pr. 81, Klaipėda, 94114 Klaipėdos m. sav., Lithuania</p>
             <p className="mb-2"><i className="fa fa-phone-alt me-3"></i>+37065922833</p>
             <p className="mb-2"><i className="fa fa-envelope me-3"></i>administracija@vizilasrestobaras.com</p>
@@ -30,7 +30,7 @@ const Footer = () => {
 
           {/* Opening Section */}
           <div className="col d-flex flex-column">
-            <h4 style={{color:"#FEA116"}} className="footer-line ff-secondary fw-normal mb-4">{t("translation.opening")}</h4>
+            <h4 className="footer-line ff-secondary fw-normal mb-4">{t("translation.opening")}</h4>
             <h5 className="text-light fw-normal">{t("translation.mon-Sat")}</h5>
             <p>11AM - 11PM</p>
             <h5 className="text-light fw-normal">{t("translation.sun")}</h5>

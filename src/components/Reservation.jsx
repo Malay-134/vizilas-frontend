@@ -65,7 +65,7 @@ const Reservation = () => {
         {/* Reservation Form */}
         <div className="col-md-6 bg-dark d-flex align-items-center">
           <div className="p-5 wow fadeInUp" data-wow-delay="0.2s">
-            <h5 className="section-title ff-secondary text-start text-primary fw-normal">
+            <h5 className="section-title ff-secondary text-start text-light fw-normal">
               {t("rese.title")}
             </h5>
             <h1 className="text-white mb-4">{t("rese.subtitle")}</h1>
