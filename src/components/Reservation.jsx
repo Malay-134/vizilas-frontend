@@ -146,7 +146,7 @@ const Reservation = () => {
 
                 <div className="col-12">
                   <button
-                    className="btn btn-primary w-100 py-3"
+                    className="btn btn-primary bg-danger w-100 py-3 btn-danger-hover"
                     type="submit"
                     disabled={loading}
                   >

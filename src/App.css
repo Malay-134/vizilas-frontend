@@ -99,6 +99,14 @@
     border-radius: 2px;
 }
 
+.btn-danger-hover {
+  transition: all 0.3s ease;
+}
+
+.btn-danger-hover:hover {
+  background-color: #b71c1c !important;
+}
+
 /* ================= NAVBAR LINKS ================= */
 .navbar.navbar-dark {
     background-color: var(--dark) ;
@@ -885,6 +893,7 @@
     transform: translateY(0);
   }
 }
+
 
 
 

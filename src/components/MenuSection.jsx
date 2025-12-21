@@ -83,7 +83,7 @@ const MenuSection = () => {
           </div>
         </div>
         <div className="d-flex justify-content-center mt-4 pt-4">
-          <button className="btn btn-primary" onClick={() => navigate("/menu")}>
+          <button className="btn btn-primary bg-danger btn-danger-hover" onClick={() => navigate("/menu")}>
             {menu.view}
           </button>
         </div>

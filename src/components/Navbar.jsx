@@ -106,7 +106,7 @@ const Navbar = () => {
               </div>
             </div>
           </div>
-          <Link to="/booking" className="btn btn-primary py-2 px-4">
+          <Link to="/booking" className="btn bg-danger btn-danger-hover btn-primary py-2 px-4">
             {t("book_table")}
           </Link>
         </div>

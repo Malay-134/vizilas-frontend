@@ -16,7 +16,7 @@ const Hero = () => {
             </p>
             <a
               href="booking.html"
-              className="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft"
+              className="btn btn-primary bg-danger btn-danger-hover py-sm-3 px-sm-5 me-3 animated slideInLeft"
             >
               {t("hero.button")}
             </a>
