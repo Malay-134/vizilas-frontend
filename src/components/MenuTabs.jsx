@@ -12,10 +12,10 @@ const MenuTabs = ({data}) => {
               data-bs-toggle="pill"
               href={`#${tab.id}`}
             >
-              <i className={`fa ${tab.icon} fa-2x text-secondary`} />
+              <i className={`fa ${tab.icon} fa-2x text-light`} />
               <div className="ps-3">
-                <small className="text-body">{tab.subtitle}</small>
-                <h6 className="mt-n1 mb-0 text-body">{tab.title}</h6>
+                <small className="text-light">{tab.subtitle}</small>
+                <h6 className="mt-n1 mb-0 text-light">{tab.title}</h6>
               </div>
             </a>
           </li>
@@ -33,11 +33,11 @@ const MenuTabs = ({data}) => {
             <div className="row g-4">
               {tab.items.map((item, i) => (
                 <div key={i} className="col-lg-12">
-                  <div className="d-flex align-items-center menu-item">
+                  <div className="d-flex align-items-center menu-item bg-danger">
                     {/* Text */}
                     <div className="flex-grow-1 pe-3">
                       <h5 className="d-flex justify-content-between align-items-center mb-0">
-                        <span className="menu-name">{item.name}</span>
+                        <span className="menu-name text-light">{item.name}</span>
                         <span className="menu-price">{item.price}</span>
                       </h5>
                     </div>

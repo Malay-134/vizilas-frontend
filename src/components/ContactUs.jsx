@@ -152,7 +152,7 @@ const ContactUS = () => {
 
                   <div className="col-12">
                     <button
-                      className="btn btn-primary w-100 py-3"
+                      className="btn btn-primary w-100 py-3 bg-danger btn-danger-hover"
                       type="submit"
                     >
                       Send Message

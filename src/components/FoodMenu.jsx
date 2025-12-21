@@ -10,7 +10,7 @@ const FoodMenu = () => {
   const sections = [menu, menuItems];
 
   return (
-    <div id="menu" className="container-xxl py-5">
+    <div id="menu" className="container-xxl py-5 bg-danger text-light">
       {sections.map((section, index) => (
         <div key={index} className={`container ${index === 0 ? "mb-5" : ""}`}>
           {/* Header */}

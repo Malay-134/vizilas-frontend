@@ -54,12 +54,16 @@ const Reservation = () => {
   return (
     <div
       id="booking"
-      className="container-xxl mb-5 px-0 wow fadeInUp"
+      className="container-xxl px-0 wow fadeInUp"
       data-wow-delay="0.1s"
     >
       <div className="row g-0">
         <div className="col-md-6">
-          <img style={{ width: "100%", height: "100%" }} src={booking} alt="reservation" />
+          <img
+            style={{ width: "100%", height: "100%" }}
+            src={booking}
+            alt="reservation"
+          />
         </div>
 
         {/* Reservation Form */}
