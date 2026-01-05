@@ -89,7 +89,7 @@ const ContactUS = () => {
             ></iframe>
           </div>
 
-          {/* Contact Form */}
+          {/* Contact Form 
           <div className="col-md-6">
             <div className="wow fadeInUp" data-wow-delay="0.2s">
               <form onSubmit={handleSubmit}>
@@ -161,7 +161,7 @@ const ContactUS = () => {
                 </div>
               </form>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </div>
