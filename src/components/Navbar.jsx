@@ -25,7 +25,7 @@ const Navbar = () => {
 
   const dropdownLinks = [
     { label: t("booking"), link: "/booking" },
-    /*{ label: t("testimonial"), link: "/testimonial" },*/
+    /* { label: t("testimonial"), link: "/testimonial" } */
   ];
 
   const changeLanguage = (lng) => {
@@ -38,10 +38,11 @@ const Navbar = () => {
         <Link to="/" className="navbar-brand p-0 d-flex align-items-center">
           <img
             src="/nav_logo1.png"
-            alt="Vizlas Restobaras Logo"
+            alt="Vizilas Restobaras Logo"
             className="navbar-logo"
           />
         </Link>
+
         <button
           className="navbar-toggler custom-toggler collapsed"
           type="button"
@@ -62,24 +63,6 @@ const Navbar = () => {
               </Link>
             ))}
 
-            {/* Pages dropdown */}
-            {/* <div className="nav-item dropdown">
-              <span
-                className="nav-link dropdown-toggle"
-                role="button"
-                data-bs-toggle="dropdown"
-              >
-                {t("pages")}
-              </span>
-              <div className="dropdown-menu m-0">
-                {dropdownLinks.map(({ link, label }) => (
-                  <Link key={label} to={link} className="dropdown-item">
-                    {label}
-                  </Link>
-                ))}
-              </div>
-            </div> */}
-
             {/* Language dropdown */}
             <div className="nav-item dropdown">
               <span
@@ -88,8 +71,8 @@ const Navbar = () => {
                 data-bs-toggle="dropdown"
               >
                 🌐
-                {/* Language */}
               </span>
+
               <div className="dropdown-menu m-0 dark-dropdown">
                 <button
                   className="dropdown-item"
@@ -97,16 +80,28 @@ const Navbar = () => {
                 >
                   English
                 </button>
+
                 <button
                   className="dropdown-item"
                   onClick={() => changeLanguage("la")}
                 >
                   Lithuanian
                 </button>
+
+                <button
+                  className="dropdown-item"
+                  onClick={() => changeLanguage("ru")}
+                >
+                  Russian
+                </button>
               </div>
             </div>
           </div>
-          <Link to="/booking" className="btn bg-danger btn-danger-hover btn-primary py-2 px-4">
+
+          <Link
+            to="/booking"
+            className="btn bg-danger btn-danger-hover btn-primary py-2 px-4"
+          >
             {t("book_table")}
           </Link>
         </div>
