@@ -596,9 +596,9 @@
 
 /*** Team ***/
 .team-item {
-    box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+    box-shadow: 0 1px 45px rgba(0.2, 0, 0, .12);
     height: calc(100% - 38px);
-    transition: .5s;
+    transition: .3s;
 }
 
 .team-item img {
