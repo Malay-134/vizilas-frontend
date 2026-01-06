@@ -596,13 +596,13 @@
 
 /*** Team ***/
 .team-item {
-    box-shadow: 0 8px 45px rgba(0, 0, 0, .12);
+    box-shadow: 1px 8px 45px rgba(0, 0, 0, .12);
     height: calc(100% - 38px);
     transition: .3s;
 }
 
 .team-item img {
-    transition: .5s;
+    transition: .2s;
 }
 
 .team-item:hover img {
