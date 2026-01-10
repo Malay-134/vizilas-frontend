@@ -378,7 +378,7 @@
 } */
 
 
-/*** Hero Header **/
+/*** Hero Header **
 .hero-header {
     background: 
       linear-gradient(rgba(15, 23, 43, 0.85), rgba(15, 23, 43, 0.85)),
@@ -387,7 +387,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+*/
 /*** Hero Header 
 .hero-header {
     background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../);
