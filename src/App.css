@@ -378,56 +378,7 @@
 } */
 
 
-/* HERO SECTION BACKGROUND IMAGE */
-.hero-header {
-  background:
-    linear-gradient(rgba(15, 23, 43, 0.85), rgba(15, 23, 43, 0.85)),
-    url("/img/Wines/wine-12.jpeg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-}
-
-/* TEXT BACKGROUND (CONTENT BOX) */
-.hero-content {
-  background: rgba(0, 0, 0, 0.55);
-  padding: 40px;
-  border-radius: 14px;
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
-}
-
-/* HERO IMAGE (RIGHT SIDE) */
-.hero-img {
-  max-width: 100%;
-  border-radius: 12px;
-  animation: zoomIn 1.2s ease-in-out;
-}
-
-/* IMAGE ANIMATION */
-@keyframes zoomIn {
-  from {
-    transform: scale(0.9);
-    opacity: 0;
-  }
-  to {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
-
-/* RESPONSIVE FIX */
-@media (max-width: 991px) {
-  .hero-content {
-    padding: 25px;
-    text-align: center;
-  }
-}
-
-/*** Hero Header **
+/*** Hero Header **/
 .hero-header {
     background: 
       linear-gradient(rgba(15, 23, 43, 0.85), rgba(15, 23, 43, 0.85)),
@@ -436,7 +387,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-*/
+
 /*** Hero Header 
 .hero-header {
     background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../);
