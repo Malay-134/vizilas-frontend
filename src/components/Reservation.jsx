@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import booking from "../../public/img/image-1.jpeg";
+import booking from "/img/image-1.jpeg";
 
 const Reservation = () => {
   const { t } = useTranslation();

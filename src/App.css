@@ -378,7 +378,7 @@
 } */
 
 
-/*** Hero Header **
+/* ** Hero Header **
 .hero-header {
     background: 
       linear-gradient(rgba(15, 23, 43, 0.85), rgba(15, 23, 43, 0.85)),
@@ -386,25 +386,56 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-*/
-/*** Hero Header 
-.hero-header {
+} */
+
+ /* Hero Header  */
+/* .hero-header {
     background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
-.hero-header img {
+/* .hero-header img {
     animation: imgRotate 50s linear infinite;
-}
+} */
 
-@keyframes imgRotate { 
+/* @keyframes imgRotate { 
     100% { 
         transform: rotate(360deg); 
     } 
-}**/
+} */
+
+
+
+.hero-wrapper {
+  background-image: url("/public/img/team-4.jpg"); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7); 
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+}
+.min-vh-40 {
+  min-height: 40vh;
+}
+
+@media (max-width: 768px) {
+  .min-vh-75 {
+    min-height: 60vh;
+  }
+}
 
 .breadcrumb-item + .breadcrumb-item::before {
     color: rgba(255, 255, 255, 0.5);
